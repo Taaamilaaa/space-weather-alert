@@ -1,0 +1,11 @@
+.header {
+  background-color: #dd5858;
+}
+.container {
+  margin: 0 80px;
+}
+.logo {
+  width: 45px;
+  height: 45px;
+  background-color: #fff;
+}
